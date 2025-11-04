@@ -15,6 +15,7 @@
         <module>Template-Design-Pattern</module>
         <module>State-Design-Pattern</module>
         <module>Command-Design-Pattern</module>
+        <module>Mediator-Design-Pattern</module>
     </modules>
 
     <properties>
