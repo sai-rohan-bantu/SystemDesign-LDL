@@ -10,6 +10,7 @@
 
     <modules>
         <module>memento-pattern</module>
+        <module>Visitor</module>
     </modules>
 
     <properties>
