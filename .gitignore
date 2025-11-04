@@ -1,0 +1,50 @@
+# -----------------------------
+# IntelliJ IDEA / JetBrains
+# -----------------------------
+.idea/
+*.iml
+*.iws
+out/
+
+# -----------------------------
+# Maven build output
+# -----------------------------
+target/
+dependency-reduced-pom.xml
+release.properties
+
+# -----------------------------
+# Gradle build output (if any)
+# -----------------------------
+.gradle/
+build/
+
+# -----------------------------
+# Eclipse (just in case)
+# -----------------------------
+.project
+.classpath
+.settings/
+bin/
+
+# -----------------------------
+# OS-specific files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Logs / temp files
+# -----------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# -----------------------------
+# Java / JVM specific
+# -----------------------------
+*.class
+hs_err_pid*
+replay_pid*
