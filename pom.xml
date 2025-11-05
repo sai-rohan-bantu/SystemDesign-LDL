@@ -18,6 +18,7 @@
         <module>Mediator-Design-Pattern</module>
         <module>Iterator-Design-Pattern</module>
         <module>Observer-Design-Pattern</module>
+        <module>Strategy-Design-Pattern</module>
     </modules>
 
     <properties>
