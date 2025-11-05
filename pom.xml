@@ -16,6 +16,7 @@
         <module>State-Design-Pattern</module>
         <module>Command-Design-Pattern</module>
         <module>Mediator-Design-Pattern</module>
+        <module>Iterator-Design-Pattern</module>
     </modules>
 
     <properties>
